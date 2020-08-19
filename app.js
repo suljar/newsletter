@@ -51,6 +51,4 @@ app.listen(process.env.PORT || 3000, () => {
     console.log("satrted....")
 })
 
-// 0414bd9778cb30a2f8cd594adfd1aa56-us17
-
-// 7a49b22b4f
+//   https://peaceful-river-29048.herokuapp.com/
